@@ -4,6 +4,7 @@ version: 1.0.5
 author: Raveen P. Yatalamaththa <raveen.rpy@gmail.com>
 homepage: https://github.com/RaveenRPY/InspectX
 repository: https://github.com/RaveenRPY/InspectX
+publish_to: none
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
