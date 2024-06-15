@@ -2,7 +2,8 @@ name: inspectx
 description: "A Flutter widget that wraps around a screen and displays the class name at the bottom, useful for debugging and development purposes."
 version: 1.0.4
 author: Raveen P. Yatalamaththa <raveen.rpy@gmail.com>
-homepage: https://github.com/RaveenRPY/SpotX
+homepage: https://github.com/RaveenRPY/InspectX
+repository: : https://github.com/RaveenRPY/InspectX
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
